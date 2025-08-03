@@ -1,11 +1,11 @@
 # Nexus Care ❤️ HealthCareManagement 
 
-##  Features 💬
+##  Features 
 
 - It is a **HealthCare Management System** which can facilitate you to check your hospital status, profile information, doctor information, check slots, book doctor appointments, review the appointments, generate and print your respective prescriptions and manage the entire application.
 - It has 3 modes of operation as **1) ADMIN 2) DOCTOR 3) USER**
 
-## DOCTOR Mode ❤️
+## DOCTOR Mode 
 
 This mode makes you as a doctor and you can perform various activities like...
 - Dcotor can register for a new account in-order to login to the portal
@@ -18,7 +18,7 @@ This mode makes you as a doctor and you can perform various activities like...
 - Add new patient prescription
 - Get various details on the doctor dashboard as Total Prescriptions given, Total doctors, Total slots, Patients.
 
-## USER Mode 😄
+## USER Mode 
 
 This mode makes you as a user and you can perform various activities like...
 - User can register for a new account in-order to login to the portal
@@ -32,7 +32,7 @@ This mode makes you as a user and you can perform various activities like...
 
 **[Additional Feature: The user can even print their respective prescriptions]**
 
-## ADMIN Mode 🔭
+## ADMIN Mode 
 
 This mode makes you as an admin and you can perform various activities like...
 - Adding a Doctor
@@ -51,11 +51,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build ⚡
+## Build 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests 🚀
+## Running unit tests 
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
@@ -63,13 +63,13 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help 💬
+## Further help 
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 # TECHNOLOGIES USED 📌
 
-## Front End 📫
+## Front End 
 
 [Angular]
 [HTML]
@@ -82,24 +82,24 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 [Material Design Icons]
 [Google Fonts]
 
-## Server Side ⚡
+## Server Side 
 
 [Spring Boot]
 [Java]
 [Spring]
 [Hibernate]
 
-## Database 🥅
+## Database 
 
 [MySQL]
 
-## Development 🔭
+## Development 
 
 [Java]
 
-## Development Tools 📺
+## Development Tools 
 
-[Postman]
+![Postman]
 [Spring Tool Suite (STS)]
 [Visual Studio Code]
 
